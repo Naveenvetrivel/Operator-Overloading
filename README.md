@@ -5,15 +5,15 @@
  
 ## Algorithm:
 
-Step 1:
+## Step 1:
 Create a class operator
-Step 2:
+## Step 2:
 Pass values through the constructor
-Step 3:
+## Step 3:
 return the bool operator, (==) and (!=)
-Step 4:
+## Step 4:
 create a object to store the return object
-Step 5:
+## Step 5:
 print the program.
 
  ## Program:
